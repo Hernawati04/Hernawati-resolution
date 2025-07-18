@@ -1,3 +1,4 @@
 Hernawati resolution
 - HPC 101 Training
   -pass training assesment
+- implement training result : integreted to class materi
