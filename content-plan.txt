@@ -2,5 +2,8 @@ content-plan
 
 - video java script
    java framework
+vue
 - php framework
+laravel
 - struktur data dasar
+- python
