@@ -2,5 +2,7 @@ content-plan
 
 - video java script
    java framework
+angular
+react
 - php framework
-- struktur data dasar
+laravel
